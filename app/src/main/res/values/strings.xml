@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ComandaPro</string>
+    <string name="nav_tables">Mesas</string>
+    <string name="nav_orders">Comandas</string>
+    <string name="nav_menu">Menú</string>
+    <string name="title_tables">Control de Mesas</string>
+    <string name="title_new_order">Nueva Comanda</string>
+    <string name="title_order_details">Detalle de Comanda</string>
+    <string name="title_cart">Revisión de Pedido</string>
+    <string name="send_to_kitchen">Enviar a Cocina</string>
+    <string name="table_available">Libre</string>
+    <string name="table_occupied">Ocupada</string>
+    <string name="status_draft">Borrador</string>
+    <string name="status_sent">En Cocina</string>
+    <string name="status_ready">Listo p/ Servir</string>
+    <string name="status_served">Servido</string>
+    <string name="status_billed">Cuenta Solicitada</string>
+    <string name="status_paid">Pagada / Cerrar</string>
+</resources>

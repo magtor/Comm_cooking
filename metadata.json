@@ -1,0 +1,6 @@
+{
+  "name": "ComandaPro",
+  "description": "App de comandas para meseros con gestión de mesas en tiempo real, catálogo de productos categorizado, carrito de pedidos editable y envío a cocina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
